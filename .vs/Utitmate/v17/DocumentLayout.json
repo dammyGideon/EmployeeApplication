@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\extensions\\authenticationconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\extensions\\authenticationconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\controllers\\jwttokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\controllers\\jwttokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\utitmate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\utitmate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|solutionrelative:repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\contracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|solutionrelative:repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\datatransferobjects\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\contracts\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\extensions\\sqlconnectionextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\extensions\\sqlconnectionextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\errormodel\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\datatransferobjects\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BAC472-8721-4315-96D5-FF3BA6DAAD84}|Repository\\Repository.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\contracts\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2712BF69-1377-444F-B716-4A8E799A6C6C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\configuration\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\configuration\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\migrations\\20240219143620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20240219143620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\entities\\migrations\\repositorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FBF227-6FD6-4B96-B34A-EDF384F08DC7}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\repositorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\utitmate\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C190F64-944D-476B-817F-4BBF7EB5DF1A}|Utitmate\\Utitmate.csproj|solutionrelative:utitmate\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2721DA69-80C2-4232-A565-C04EBF4A0CE8}|LoggerService\\LoggerService.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\loggerservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2721DA69-80C2-4232-A565-C04EBF4A0CE8}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2721DA69-80C2-4232-A565-C04EBF4A0CE8}|LoggerService\\LoggerService.csproj|c:\\users\\hp\\desktop\\dating\\utitmate\\loggerservice\\loggerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2721DA69-80C2-4232-A565-C04EBF4A0CE8}|LoggerService\\LoggerService.csproj|solutionrelative:loggerservice\\loggerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Utitmate\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA/wBgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:30:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Program.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Program.cs",
+              "RelativeToolTip": "Utitmate\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:51:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Extensions\\AuthenticationConfigure.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Extensions\\AuthenticationConfigure.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Extensions\\AuthenticationConfigure.cs",
+              "RelativeToolTip": "Utitmate\\Extensions\\AuthenticationConfigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:10:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T14:00:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utitmate.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Utitmate.csproj",
+              "RelativeDocumentMoniker": "Utitmate\\Utitmate.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Utitmate.csproj",
+              "RelativeToolTip": "Utitmate\\Utitmate.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T12:19:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\JwtTokenValidator.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Controllers\\JwtTokenValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\JwtTokenValidator.cs",
+              "RelativeToolTip": "Utitmate\\Controllers\\JwtTokenValidator.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:01:34.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:44:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Utitmate\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\MappingProfile.cs",
+              "RelativeToolTip": "Utitmate\\MappingProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:21:43.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\appsettings.json",
+              "RelativeDocumentMoniker": "Utitmate\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\appsettings.json",
+              "RelativeToolTip": "Utitmate\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T14:09:03.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Models\\Employee.cs",
+              "RelativeToolTip": "Entities\\Models\\Employee.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA+wBMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:04:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Utitmate\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:33:54.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\RepositoryManager.cs",
+              "RelativeToolTip": "Repository\\RepositoryManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:49:31.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Contracts\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:39:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\CompanyRepository.cs",
+              "RelativeToolTip": "Repository\\CompanyRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:42:27.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Entities\\Configuration\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Entities\\Configuration\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:44:55.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T15:38:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\DataTransferObjects\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\DataTransferObjects\\EmployeeDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T12:21:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\Contracts.csproj",
+              "RelativeDocumentMoniker": "Contracts\\Contracts.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\Contracts.csproj",
+              "RelativeToolTip": "Contracts\\Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T08:38:15.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\ErrorModel\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Entities\\ErrorModel\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\ErrorModel\\ErrorDetails.cs",
+              "RelativeToolTip": "Entities\\ErrorModel\\ErrorDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:04:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\ICompanyRepository.cs",
+              "RelativeToolTip": "Contracts\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:38:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Utitmate\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:06:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sqlConnectionExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Extensions\\sqlConnectionExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Extensions\\sqlConnectionExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Extensions\\sqlConnectionExtensionMethod.cs",
+              "RelativeToolTip": "Utitmate\\Extensions\\sqlConnectionExtensionMethod.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:22:55.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Contracts\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T15:08:02.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Utitmate\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Utitmate\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:58:37.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompanyDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\DataTransferObjects\\CompanyDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\CompanyDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\DataTransferObjects\\CompanyDto.cs",
+              "RelativeToolTip": "Entities\\DataTransferObjects\\CompanyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:11:27.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Contracts\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:47:09.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T15:38:49.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Configuration\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "Entities\\Configuration\\CompanyConfiguration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Configuration\\CompanyConfiguration.cs",
+              "RelativeToolTip": "Entities\\Configuration\\CompanyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:41:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Entities\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\RepositoryContext.cs",
+              "RelativeToolTip": "Entities\\RepositoryContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:05:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RepositoryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "RelativeToolTip": "Entities\\Migrations\\RepositoryContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:39:36.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "Contracts\\ILoggerManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Contracts\\ILoggerManager.cs",
+              "RelativeToolTip": "Contracts\\ILoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T11:59:48.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240219143620_initial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Migrations\\20240219143620_initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20240219143620_initial.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Entities\\Migrations\\20240219143620_initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20240219143620_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:36:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\nlog.config",
+              "RelativeDocumentMoniker": "Utitmate\\nlog.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\nlog.config",
+              "RelativeToolTip": "Utitmate\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-19T13:15:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\nlog.config",
+              "RelativeDocumentMoniker": "Utitmate\\nlog.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\Utitmate\\nlog.config",
+              "RelativeToolTip": "Utitmate\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-19T12:20:54.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoggerService.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\LoggerService\\LoggerService.csproj",
+              "RelativeDocumentMoniker": "LoggerService\\LoggerService.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\LoggerService\\LoggerService.csproj",
+              "RelativeToolTip": "LoggerService\\LoggerService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T12:07:32.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\LoggerService\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "LoggerService\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\dating\\Utitmate\\LoggerService\\LoggerManager.cs",
+              "RelativeToolTip": "LoggerService\\LoggerManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T12:00:43.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
